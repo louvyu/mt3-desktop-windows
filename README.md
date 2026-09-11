@@ -1,4 +1,4 @@
-# MT3 Audio Converter (Desktop GUI)
+# MT3 Windows Desktop APP
 
 This is a local desktop conversion tool based on MT3 (Multi-Task Multitrack Music Transcription). It features a sleek, modern glassmorphism UI and supports one-click audio-to-MIDI conversion using local CPU or GPU environments.
 
